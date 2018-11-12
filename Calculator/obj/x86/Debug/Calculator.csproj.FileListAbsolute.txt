@@ -1,0 +1,6 @@
+/Users/Apostolidis/Projects/Calculator/Calculator/bin/Debug/Calculator.exe
+/Users/Apostolidis/Projects/Calculator/Calculator/bin/Debug/Calculator.pdb
+/Users/Apostolidis/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.csprojAssemblyReference.cache
+/Users/Apostolidis/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.csproj.CoreCompileInputs.cache
+/Users/Apostolidis/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.exe
+/Users/Apostolidis/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.pdb
